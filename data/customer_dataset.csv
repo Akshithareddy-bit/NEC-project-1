@@ -1,0 +1,501 @@
+Customer_ID,Age,Gender,Annual_Budget,Preferred_Category,Browsing_Time,Discount_Sensitivity,Product_List_Viewed,Purchased_Product,Purchase_Amount,Customer_Segment,Purchase_Frequency,Last_Purchase_Days,Customer_Satisfaction,Loyalty_Score,Churn
+395,27,Male,53395,Home,100,7,Home,Watch,20899,Medium,6,340,5,84,0
+162,31,Female,45046,Groceries,93,4,Groceries,Watch,7113,Medium,2,231,6,17,0
+452,21,Female,67530,Groceries,84,4,Groceries,Laptop,53807,Luxury,13,346,2,31,0
+130,64,Male,56600,Fashion,103,4,Fashion,Shoes,19551,Medium,17,61,3,50,0
+138,58,Male,41966,Fashion,102,8,Fashion,Watch,14439,Medium,13,163,6,83,0
+225,58,Female,47900,Electronics,13,4,Electronics,Shoes,22421,Medium,4,86,6,12,0
+367,33,Female,44397,Home,52,7,Home,Headphones,15558,Medium,10,338,6,19,0
+490,62,Female,85986,Groceries,76,4,Groceries,Smartphone,58691,Luxury,8,298,3,26,1
+217,53,Female,15978,Fashion,108,2,Fashion,Household Products,2820,Budget,13,181,2,11,1
+371,39,Female,56218,Sports,62,9,Sports,Headphones,13003,Medium,13,260,6,7,0
+239,20,Male,44521,Electronics,41,8,Electronics,Watch,11304,Medium,17,345,5,12,0
+328,43,Female,99080,Fashion,80,5,Fashion,Laptop,25619,Luxury,18,19,7,55,0
+315,27,Male,72507,Fashion,51,5,Fashion,Laptop,33016,Luxury,10,46,5,24,0
+472,47,Male,87986,Fashion,61,5,Fashion,Gaming Console,76059,Luxury,19,95,5,32,0
+62,22,Female,90642,Fashion,57,7,Fashion,Gaming Console,38456,Luxury,5,53,5,74,0
+250,21,Female,21205,Groceries,114,6,Groceries,Groceries,4458,Budget,19,32,9,12,0
+218,57,Female,36806,Home,77,9,Home,Shoes,19291,Medium,8,315,9,22,0
+273,25,Female,70348,Fashion,113,1,Fashion,Smartphone,62383,Luxury,13,90,7,92,0
+100,36,Female,12079,Fashion,34,1,Fashion,T-Shirt,3557,Budget,13,286,8,19,0
+49,48,Female,19348,Electronics,39,7,Electronics,Groceries,1453,Budget,11,331,2,76,0
+414,45,Male,67980,Fashion,17,4,Fashion,Laptop,43814,Luxury,5,282,6,4,0
+488,64,Male,17493,Groceries,12,3,Groceries,T-Shirt,4871,Budget,1,131,3,69,0
+194,38,Female,95957,Home,26,2,Home,Laptop,34715,Luxury,8,231,1,16,1
+174,51,Male,39165,Groceries,8,6,Groceries,Watch,10450,Medium,19,82,9,23,0
+82,21,Male,68067,Sports,101,4,Sports,Laptop,45618,Luxury,17,140,1,90,0
+300,55,Female,80721,Fashion,44,1,Fashion,Laptop,75649,Luxury,2,234,6,60,0
+106,59,Male,86918,Electronics,16,4,Electronics,Laptop,32083,Luxury,5,293,6,94,0
+54,45,Female,76040,Home,67,1,Home,Smartphone,47700,Luxury,1,117,6,58,0
+192,53,Male,52828,Home,97,9,Home,Watch,18711,Medium,16,106,9,55,0
+133,51,Female,43742,Sports,42,8,Sports,Watch,13987,Medium,5,176,2,70,0
+27,38,Female,49790,Groceries,68,1,Groceries,Watch,12679,Medium,5,317,3,4,1
+143,19,Male,88797,Home,88,6,Home,Smartphone,78268,Luxury,11,27,3,81,0
+263,58,Male,81363,Sports,72,8,Sports,Laptop,56600,Luxury,2,361,6,41,0
+476,29,Male,12537,Home,31,1,Home,Groceries,4367,Budget,2,305,2,60,0
+314,61,Male,26923,Sports,108,6,Sports,Watch,9213,Medium,1,356,5,99,0
+139,51,Male,11435,Groceries,64,5,Groceries,T-Shirt,1417,Budget,4,352,4,68,0
+404,31,Male,63535,Sports,15,2,Sports,Gaming Console,75600,Luxury,18,75,5,44,0
+464,32,Male,89943,Sports,11,7,Sports,Laptop,53202,Luxury,14,63,8,12,0
+289,54,Male,28951,Groceries,32,5,Groceries,Watch,6708,Medium,17,101,4,19,0
+121,47,Female,35510,Groceries,103,2,Groceries,Watch,18409,Medium,10,103,1,14,0
+201,42,Male,56659,Sports,49,4,Sports,Headphones,10179,Medium,18,316,6,32,0
+242,38,Male,93457,Groceries,26,9,Groceries,Smartphone,28750,Luxury,2,330,2,16,1
+451,24,Male,60225,Sports,69,3,Sports,Gaming Console,71830,Luxury,4,141,6,58,0
+470,36,Female,98302,Fashion,83,9,Fashion,Smartphone,50491,Luxury,9,288,4,50,0
+7,51,Female,42606,Sports,52,8,Sports,Watch,13529,Medium,14,215,9,62,0
+204,24,Female,33291,Sports,101,4,Sports,Headphones,6403,Medium,4,103,8,17,0
+212,49,Female,73936,Groceries,91,5,Groceries,Smartphone,32788,Luxury,8,333,8,87,0
+382,41,Female,81696,Electronics,75,5,Electronics,Smartphone,61413,Luxury,17,7,1,53,0
+281,21,Male,31312,Groceries,69,4,Groceries,Headphones,16246,Medium,19,157,2,92,0
+437,41,Male,97234,Home,62,1,Home,Laptop,38998,Luxury,15,163,9,53,0
+445,64,Female,49454,Electronics,56,9,Electronics,Watch,16454,Medium,12,278,8,1,0
+302,56,Male,38454,Sports,69,1,Sports,Headphones,18364,Medium,9,158,5,13,0
+374,29,Female,45098,Sports,60,7,Sports,Shoes,11121,Medium,13,311,7,96,0
+191,23,Female,29201,Home,106,1,Home,Shoes,17075,Medium,3,354,7,30,0
+182,59,Female,34611,Sports,88,4,Sports,Shoes,16130,Medium,7,310,1,44,0
+24,25,Female,63351,Fashion,88,3,Fashion,Laptop,78585,Luxury,16,99,9,93,0
+166,23,Female,93194,Sports,65,4,Sports,Laptop,52420,Luxury,18,334,2,73,0
+424,42,Male,73400,Home,35,5,Home,Smartphone,25336,Luxury,7,13,2,49,0
+97,19,Male,18666,Electronics,38,1,Electronics,Household Products,4072,Budget,11,364,3,54,0
+457,60,Male,50031,Groceries,8,4,Groceries,Shoes,22600,Medium,17,297,3,5,1
+59,63,Male,55445,Fashion,86,3,Fashion,Shoes,10124,Medium,5,303,9,66,0
+392,39,Female,66233,Electronics,80,6,Electronics,Smartphone,58722,Luxury,16,8,8,59,0
+277,45,Male,29539,Fashion,74,5,Fashion,Watch,23850,Medium,2,93,6,3,0
+288,41,Male,65778,Electronics,17,2,Electronics,Laptop,44218,Luxury,11,273,3,82,0
+78,58,Male,72981,Sports,56,2,Sports,Laptop,51900,Luxury,13,229,9,33,0
+248,63,Female,89057,Groceries,46,4,Groceries,Smartphone,25258,Luxury,6,268,2,7,1
+198,47,Female,83861,Fashion,71,7,Fashion,Gaming Console,45609,Luxury,14,73,5,35,0
+308,23,Female,58695,Sports,80,3,Sports,Watch,17091,Medium,5,186,7,90,0
+83,53,Male,57362,Fashion,37,6,Fashion,Shoes,23444,Medium,18,10,5,23,0
+385,19,Male,14994,Groceries,15,5,Groceries,Groceries,4307,Budget,14,30,9,18,0
+335,40,Female,22602,Fashion,79,9,Fashion,T-Shirt,2460,Budget,9,193,1,22,1
+209,21,Female,47487,Fashion,86,8,Fashion,Watch,15636,Medium,3,233,4,29,1
+291,29,Female,76418,Electronics,23,4,Electronics,Laptop,38527,Luxury,6,183,4,75,0
+396,25,Male,13748,Sports,67,6,Sports,Groceries,1189,Budget,6,96,3,79,0
+276,32,Male,71350,Electronics,6,9,Electronics,Smartphone,65486,Luxury,10,307,2,51,0
+362,39,Female,94381,Electronics,29,1,Electronics,Smartphone,25082,Luxury,17,301,4,7,1
+380,26,Male,95280,Fashion,66,1,Fashion,Smartphone,59716,Luxury,19,195,8,47,0
+418,34,Male,19486,Electronics,83,7,Electronics,Groceries,4302,Budget,7,13,1,32,0
+366,63,Male,15039,Fashion,38,8,Fashion,T-Shirt,4926,Budget,11,61,2,67,0
+23,49,Male,82694,Electronics,13,9,Electronics,Gaming Console,75800,Luxury,3,147,3,20,0
+60,50,Female,37712,Groceries,22,1,Groceries,Headphones,18772,Medium,11,341,9,86,0
+309,44,Male,33478,Home,14,7,Home,Headphones,17718,Medium,11,13,5,33,0
+243,39,Female,84071,Groceries,115,8,Groceries,Gaming Console,35800,Luxury,6,59,3,64,0
+71,59,Male,33061,Fashion,25,6,Fashion,Shoes,23977,Medium,1,133,9,12,0
+331,61,Male,94388,Fashion,78,4,Fashion,Laptop,45022,Luxury,5,156,5,88,0
+128,23,Male,66638,Home,50,8,Home,Gaming Console,73988,Luxury,11,62,2,25,0
+365,45,Male,14138,Home,45,2,Home,Household Products,3284,Budget,13,168,7,23,0
+376,56,Female,42854,Sports,85,7,Sports,Headphones,6700,Medium,16,313,6,73,0
+324,48,Male,46081,Electronics,30,1,Electronics,Headphones,7295,Medium,18,5,4,52,0
+463,59,Female,42443,Groceries,81,4,Groceries,Headphones,23714,Medium,7,246,2,90,0
+36,59,Female,96672,Home,67,3,Home,Smartphone,75816,Luxury,5,117,7,9,0
+286,22,Male,25848,Groceries,53,2,Groceries,Headphones,18865,Medium,13,342,5,87,0
+462,28,Female,34816,Home,119,2,Home,Headphones,13430,Medium,3,187,6,57,0
+400,52,Female,42933,Groceries,35,8,Groceries,Shoes,16618,Medium,18,356,7,79,0
+298,25,Male,17295,Electronics,77,1,Electronics,Groceries,913,Budget,4,35,2,63,0
+120,32,Male,34070,Sports,13,3,Sports,Shoes,8294,Medium,16,328,2,59,0
+124,30,Female,58543,Electronics,100,3,Electronics,Watch,13436,Medium,7,302,4,29,1
+354,34,Female,29552,Electronics,9,9,Electronics,Shoes,21433,Medium,14,69,6,59,0
+353,35,Female,47327,Sports,76,1,Sports,Headphones,21523,Medium,17,12,5,75,0
+262,53,Female,53472,Groceries,34,9,Groceries,Watch,23146,Medium,1,308,9,14,0
+61,50,Female,85880,Electronics,103,1,Electronics,Smartphone,57606,Luxury,16,311,6,92,0
+74,41,Female,26748,Groceries,30,8,Groceries,Headphones,6531,Medium,19,7,3,23,0
+486,22,Male,58924,Electronics,74,9,Electronics,Headphones,12754,Medium,2,325,9,72,0
+293,35,Female,28354,Home,51,4,Home,Watch,13016,Medium,7,163,9,72,0
+13,60,Male,43827,Sports,17,7,Sports,Shoes,21312,Medium,19,86,2,42,0
+425,53,Male,79504,Groceries,19,1,Groceries,Laptop,26134,Luxury,8,219,7,46,0
+2,53,Female,26023,Home,7,6,Home,Watch,22568,Medium,2,344,6,2,0
+131,20,Female,17906,Sports,106,8,Sports,Groceries,1790,Budget,15,89,9,68,0
+79,23,Female,81158,Electronics,116,4,Electronics,Gaming Console,49818,Luxury,11,318,8,55,0
+20,23,Female,25708,Home,7,4,Home,Headphones,23227,Medium,4,346,3,19,1
+5,26,Female,78148,Electronics,6,4,Electronics,Laptop,28943,Luxury,15,264,3,78,0
+69,60,Male,22015,Groceries,79,3,Groceries,Groceries,1399,Budget,15,249,7,55,0
+52,42,Male,45909,Fashion,35,3,Fashion,Shoes,20485,Medium,12,182,7,91,0
+211,38,Female,38602,Sports,90,8,Sports,Headphones,19916,Medium,17,79,1,60,0
+307,46,Female,29008,Groceries,111,3,Groceries,Watch,7224,Medium,9,162,4,82,0
+322,58,Male,48458,Groceries,94,7,Groceries,Watch,13652,Medium,10,26,9,10,0
+81,47,Female,23234,Groceries,66,9,Groceries,T-Shirt,1641,Budget,2,335,8,26,0
+387,19,Male,61756,Groceries,83,4,Groceries,Laptop,33397,Luxury,10,221,3,83,0
+494,63,Female,50874,Electronics,55,5,Electronics,Watch,13792,Medium,5,46,5,88,0
+140,34,Female,19077,Home,69,6,Home,T-Shirt,3007,Budget,18,306,4,99,0
+202,40,Male,81966,Groceries,119,5,Groceries,Laptop,71332,Luxury,19,266,9,2,0
+341,58,Male,42252,Sports,64,6,Sports,Watch,10634,Medium,6,357,9,10,0
+296,27,Female,36943,Electronics,25,2,Electronics,Shoes,17306,Medium,9,152,3,56,0
+63,38,Female,48765,Electronics,5,3,Electronics,Watch,17775,Medium,13,205,4,62,0
+4,54,Male,51606,Home,25,9,Home,Shoes,13433,Medium,7,274,4,89,0
+336,46,Female,88532,Fashion,15,8,Fashion,Gaming Console,68410,Luxury,19,149,3,76,0
+439,20,Female,38820,Sports,93,4,Sports,Watch,18171,Medium,17,116,6,85,0
+419,38,Female,59996,Electronics,84,9,Electronics,Headphones,16151,Medium,12,38,3,60,0
+431,25,Male,96242,Groceries,119,8,Groceries,Gaming Console,62531,Luxury,17,149,3,66,0
+164,31,Female,81260,Groceries,14,9,Groceries,Smartphone,68320,Luxury,1,133,4,8,0
+317,60,Male,11401,Electronics,64,6,Electronics,Groceries,4366,Budget,1,340,7,28,0
+435,55,Female,71576,Sports,115,8,Sports,Smartphone,65446,Luxury,12,287,8,14,0
+10,56,Female,62251,Sports,11,9,Sports,Gaming Console,44115,Luxury,8,268,2,33,0
+326,39,Female,49121,Sports,82,3,Sports,Headphones,13811,Medium,6,93,8,44,0
+471,40,Female,13748,Home,26,4,Home,Household Products,989,Budget,12,290,9,95,0
+48,38,Female,70566,Fashion,20,9,Fashion,Gaming Console,47925,Luxury,7,109,5,42,0
+105,24,Male,12198,Electronics,89,3,Electronics,Household Products,4094,Budget,16,36,2,2,0
+230,62,Female,76077,Sports,62,6,Sports,Laptop,53854,Luxury,4,192,3,48,0
+446,59,Female,44217,Electronics,25,1,Electronics,Watch,13848,Medium,6,99,8,62,0
+352,39,Male,96328,Fashion,105,8,Fashion,Gaming Console,46074,Luxury,7,206,8,67,0
+199,52,Female,82909,Sports,24,2,Sports,Laptop,54984,Luxury,10,25,2,25,0
+178,32,Female,56819,Sports,19,7,Sports,Watch,5406,Medium,6,302,2,43,0
+342,39,Male,85715,Sports,96,6,Sports,Gaming Console,76001,Luxury,19,239,9,69,0
+165,37,Female,95112,Electronics,111,5,Electronics,Gaming Console,26742,Luxury,15,204,5,49,0
+159,49,Male,82099,Fashion,102,4,Fashion,Gaming Console,42778,Luxury,2,335,2,36,0
+34,59,Female,63006,Home,58,5,Home,Smartphone,46606,Luxury,1,264,5,60,0
+381,51,Male,66053,Sports,5,2,Sports,Smartphone,62158,Luxury,16,239,1,64,0
+104,51,Male,44911,Fashion,92,8,Fashion,Headphones,9425,Medium,14,165,6,85,0
+478,62,Female,96483,Home,118,9,Home,Smartphone,46067,Luxury,16,162,9,66,0
+157,58,Male,70315,Electronics,78,3,Electronics,Gaming Console,55027,Luxury,3,93,6,63,0
+372,45,Male,17296,Sports,59,3,Sports,T-Shirt,1144,Budget,14,242,9,1,0
+129,62,Female,87129,Sports,111,2,Sports,Smartphone,33245,Luxury,9,241,3,6,1
+73,34,Female,74291,Fashion,5,8,Fashion,Gaming Console,27125,Luxury,17,355,4,79,0
+454,59,Male,63218,Home,34,6,Home,Laptop,62034,Luxury,18,197,5,93,0
+184,59,Female,81831,Groceries,84,1,Groceries,Gaming Console,61041,Luxury,5,68,2,24,0
+221,45,Male,58908,Groceries,86,2,Groceries,Headphones,15517,Medium,15,283,2,95,0
+285,40,Female,40403,Sports,22,9,Sports,Shoes,17355,Medium,17,285,4,17,1
+447,55,Male,76125,Sports,49,6,Sports,Gaming Console,74420,Luxury,3,14,8,61,0
+89,23,Female,93122,Groceries,76,4,Groceries,Smartphone,35789,Luxury,15,111,1,94,0
+409,43,Female,31119,Sports,88,4,Sports,Headphones,6262,Medium,16,318,7,80,0
+241,60,Male,65718,Fashion,90,1,Fashion,Smartphone,72945,Luxury,17,98,6,70,0
+370,60,Male,80843,Home,106,8,Home,Laptop,49417,Luxury,4,114,5,79,0
+313,62,Male,67505,Groceries,13,8,Groceries,Laptop,74131,Luxury,8,263,4,18,1
+321,32,Female,59067,Home,94,4,Home,Shoes,21661,Medium,8,119,5,56,0
+125,61,Male,43039,Electronics,60,9,Electronics,Shoes,7050,Medium,10,359,4,5,1
+116,60,Female,65337,Groceries,29,7,Groceries,Laptop,45581,Luxury,3,131,2,44,0
+227,21,Female,28313,Sports,28,6,Sports,Shoes,10891,Medium,3,154,5,85,0
+441,23,Male,66683,Home,51,7,Home,Gaming Console,27773,Luxury,4,91,2,21,0
+443,22,Female,70652,Sports,57,7,Sports,Smartphone,55266,Luxury,5,56,6,93,0
+264,47,Female,64306,Home,15,2,Home,Smartphone,32156,Luxury,5,304,4,67,0
+189,20,Male,41367,Fashion,101,6,Fashion,Watch,7475,Medium,9,196,1,60,0
+3,29,Female,38693,Home,112,9,Home,Watch,16394,Medium,17,59,3,55,0
+213,41,Male,86816,Home,9,4,Home,Gaming Console,63098,Luxury,8,314,4,11,1
+461,51,Female,85874,Electronics,79,5,Electronics,Laptop,50553,Luxury,13,209,2,76,0
+142,46,Female,24288,Sports,103,9,Sports,Household Products,2323,Budget,7,271,7,29,0
+297,25,Female,46976,Electronics,108,7,Electronics,Watch,14959,Medium,7,67,1,36,0
+252,44,Male,19752,Fashion,7,1,Fashion,Groceries,3569,Budget,4,281,4,34,0
+458,37,Female,24191,Electronics,15,3,Electronics,Groceries,1340,Budget,9,316,7,14,0
+38,22,Female,69638,Home,71,3,Home,Smartphone,69078,Luxury,5,86,9,29,0
+75,62,Female,98869,Fashion,103,3,Fashion,Gaming Console,76128,Luxury,15,192,9,28,0
+205,46,Female,22411,Sports,42,7,Sports,Household Products,2639,Budget,18,63,5,63,0
+41,49,Male,76387,Groceries,28,2,Groceries,Gaming Console,79884,Luxury,3,33,1,61,0
+58,45,Male,14835,Sports,68,6,Sports,T-Shirt,3456,Budget,17,201,1,84,0
+368,30,Female,86162,Fashion,78,6,Fashion,Smartphone,48624,Luxury,1,91,8,51,0
+169,61,Female,22115,Fashion,27,4,Fashion,T-Shirt,628,Budget,16,234,7,8,0
+256,32,Male,84658,Home,37,4,Home,Gaming Console,26958,Luxury,16,66,3,40,0
+145,42,Female,36385,Groceries,19,8,Groceries,Shoes,11342,Medium,14,145,5,8,0
+311,56,Female,35599,Electronics,45,3,Electronics,Watch,7257,Medium,15,146,3,71,0
+416,22,Female,55541,Electronics,14,8,Electronics,Headphones,24166,Medium,14,355,7,17,0
+440,55,Male,50953,Electronics,114,4,Electronics,Shoes,21260,Medium,15,302,9,21,0
+358,24,Male,69778,Fashion,14,2,Fashion,Laptop,29117,Luxury,3,208,2,24,1
+338,40,Female,18275,Groceries,19,2,Groceries,Household Products,3471,Budget,13,221,8,41,0
+329,46,Male,38001,Fashion,21,5,Fashion,Shoes,8423,Medium,16,247,8,13,0
+228,62,Female,69664,Fashion,75,4,Fashion,Gaming Console,31643,Luxury,14,3,8,80,0
+219,38,Female,74946,Electronics,50,1,Electronics,Smartphone,68950,Luxury,3,122,7,39,0
+112,43,Male,99563,Home,66,2,Home,Gaming Console,38081,Luxury,11,193,3,53,0
+40,27,Female,78385,Fashion,56,3,Fashion,Smartphone,74115,Luxury,1,325,4,16,1
+449,23,Female,78154,Sports,68,2,Sports,Gaming Console,39719,Luxury,18,273,9,14,0
+21,58,Male,93879,Fashion,43,2,Fashion,Gaming Console,46918,Luxury,8,129,9,89,0
+479,43,Male,79345,Groceries,52,4,Groceries,Laptop,38210,Luxury,7,60,2,65,0
+223,61,Male,19496,Home,105,8,Home,T-Shirt,1014,Budget,10,186,8,1,0
+109,43,Female,86908,Sports,102,7,Sports,Laptop,63243,Luxury,5,75,6,18,0
+305,51,Female,83463,Electronics,102,9,Electronics,Laptop,76036,Luxury,12,49,9,95,0
+206,39,Female,41174,Groceries,105,6,Groceries,Watch,23677,Medium,5,183,2,62,0
+282,48,Male,57498,Fashion,53,1,Fashion,Shoes,22438,Medium,6,64,5,8,0
+272,56,Male,78648,Home,43,3,Home,Gaming Console,69363,Luxury,11,333,1,40,0
+84,57,Female,44387,Groceries,69,5,Groceries,Shoes,14310,Medium,9,273,9,75,0
+176,50,Male,18927,Fashion,117,3,Fashion,Groceries,3489,Budget,12,102,3,72,0
+50,61,Male,87052,Electronics,106,7,Electronics,Laptop,48322,Luxury,14,141,8,42,0
+498,64,Male,82255,Fashion,42,7,Fashion,Smartphone,42576,Luxury,10,7,6,81,0
+170,25,Male,23669,Fashion,9,6,Fashion,Household Products,3985,Budget,15,290,1,55,0
+310,42,Female,81368,Electronics,25,4,Electronics,Smartphone,47005,Luxury,19,211,5,42,0
+261,59,Male,34264,Home,32,4,Home,Shoes,22317,Medium,13,327,9,19,0
+482,23,Female,89267,Groceries,26,4,Groceries,Gaming Console,33044,Luxury,1,164,4,18,1
+287,51,Female,66882,Groceries,117,5,Groceries,Smartphone,59395,Luxury,14,21,7,68,0
+88,50,Male,28574,Sports,101,9,Sports,Headphones,16302,Medium,17,225,7,66,0
+397,23,Male,12103,Fashion,114,8,Fashion,Groceries,2878,Budget,8,255,7,77,0
+391,24,Female,45710,Fashion,96,6,Fashion,Shoes,16748,Medium,17,215,3,21,1
+492,44,Male,70197,Home,102,3,Home,Smartphone,73994,Luxury,6,230,1,42,0
+91,27,Male,56197,Sports,42,4,Sports,Watch,19382,Medium,13,216,4,56,0
+231,50,Female,11651,Home,117,9,Home,Household Products,2510,Budget,13,161,1,70,0
+103,40,Male,73230,Electronics,76,6,Electronics,Gaming Console,38575,Luxury,15,229,3,51,0
+57,33,Female,33959,Fashion,32,5,Fashion,Shoes,5539,Medium,8,122,4,90,0
+149,50,Female,30581,Electronics,45,8,Electronics,Watch,11731,Medium,11,214,3,88,0
+207,55,Male,33177,Fashion,91,8,Fashion,Watch,21052,Medium,7,65,5,90,0
+234,38,Female,35279,Fashion,9,4,Fashion,Headphones,7839,Medium,6,90,4,39,0
+312,54,Male,36654,Electronics,6,9,Electronics,Watch,15070,Medium,9,166,6,56,0
+436,51,Male,76809,Fashion,28,6,Fashion,Gaming Console,33002,Luxury,10,73,4,64,0
+468,37,Male,80469,Home,67,4,Home,Laptop,41428,Luxury,2,224,2,69,0
+96,64,Male,85060,Fashion,13,4,Fashion,Gaming Console,32973,Luxury,9,291,4,25,1
+448,48,Male,19275,Sports,10,5,Sports,Groceries,4103,Budget,17,217,2,26,1
+107,52,Female,27771,Electronics,28,1,Electronics,Shoes,8186,Medium,10,158,8,59,0
+320,50,Male,57832,Electronics,76,6,Electronics,Watch,24660,Medium,4,104,3,29,0
+450,61,Male,17566,Fashion,23,3,Fashion,T-Shirt,4740,Budget,17,100,3,32,0
+64,49,Female,46187,Groceries,99,8,Groceries,Headphones,9363,Medium,7,154,2,54,0
+115,62,Male,76017,Electronics,77,2,Electronics,Smartphone,25060,Luxury,9,201,8,17,0
+410,44,Male,98151,Electronics,77,3,Electronics,Gaming Console,52230,Luxury,19,212,5,81,0
+319,24,Female,71240,Electronics,16,5,Electronics,Gaming Console,48303,Luxury,4,135,4,51,0
+65,18,Female,83963,Sports,9,9,Sports,Smartphone,37173,Luxury,17,112,7,79,0
+422,55,Female,91972,Sports,98,3,Sports,Laptop,31855,Luxury,3,237,6,98,0
+153,56,Male,36015,Home,45,2,Home,Shoes,18629,Medium,12,264,8,50,0
+245,58,Female,28489,Home,32,1,Home,Watch,22961,Medium,2,248,3,72,0
+474,64,Female,68251,Home,99,1,Home,Smartphone,48238,Luxury,1,348,1,47,0
+491,26,Female,73927,Groceries,87,7,Groceries,Laptop,71121,Luxury,19,268,7,78,0
+363,18,Female,87219,Fashion,77,6,Fashion,Gaming Console,43485,Luxury,16,166,1,74,0
+275,47,Male,34995,Electronics,86,5,Electronics,Watch,21715,Medium,19,239,8,84,0
+477,42,Female,74892,Sports,14,8,Sports,Laptop,57463,Luxury,1,333,8,42,0
+183,30,Male,75429,Fashion,25,6,Fashion,Laptop,63520,Luxury,9,26,9,15,0
+433,60,Female,61257,Groceries,17,4,Groceries,Laptop,55971,Luxury,17,105,4,60,0
+72,31,Female,91818,Groceries,77,9,Groceries,Gaming Console,78295,Luxury,15,121,6,56,0
+46,37,Female,10728,Home,90,3,Home,T-Shirt,3002,Budget,17,100,9,19,0
+173,23,Male,15704,Electronics,37,9,Electronics,Household Products,1847,Budget,16,269,9,77,0
+323,25,Female,88915,Home,115,1,Home,Smartphone,43990,Luxury,17,175,4,88,0
+163,52,Male,23760,Groceries,44,8,Groceries,Groceries,4278,Budget,4,301,7,47,0
+240,21,Male,98553,Sports,75,6,Sports,Laptop,31171,Luxury,1,81,8,61,0
+270,63,Male,68557,Sports,12,4,Sports,Smartphone,42087,Luxury,1,90,7,85,0
+344,25,Male,67615,Electronics,63,7,Electronics,Gaming Console,28551,Luxury,10,202,2,9,1
+375,59,Female,94774,Groceries,84,1,Groceries,Smartphone,43978,Luxury,17,213,9,6,0
+267,37,Male,88002,Home,8,7,Home,Smartphone,33770,Luxury,7,348,4,22,1
+80,48,Female,14324,Groceries,40,8,Groceries,Household Products,1145,Budget,6,322,4,92,0
+168,41,Male,75661,Groceries,102,9,Groceries,Laptop,34110,Luxury,18,285,9,39,0
+127,26,Male,90688,Sports,92,4,Sports,Gaming Console,57123,Luxury,12,187,5,61,0
+394,55,Male,63442,Groceries,42,3,Groceries,Gaming Console,32957,Luxury,1,173,5,13,0
+99,37,Female,34917,Sports,96,8,Sports,Shoes,7482,Medium,17,327,1,96,0
+37,18,Male,56175,Sports,52,9,Sports,Headphones,14662,Medium,8,237,5,1,0
+177,26,Male,32612,Sports,30,8,Sports,Shoes,16556,Medium,16,117,9,12,0
+126,62,Female,34951,Electronics,34,2,Electronics,Watch,19286,Medium,4,146,5,25,0
+456,57,Female,14552,Groceries,105,4,Groceries,Groceries,4222,Budget,6,112,8,63,0
+485,40,Female,66063,Sports,82,1,Sports,Gaming Console,68298,Luxury,3,273,3,54,0
+28,34,Female,28589,Sports,97,5,Sports,Watch,5301,Medium,6,99,9,37,0
+480,19,Male,72008,Home,82,2,Home,Smartphone,70926,Luxury,15,12,5,28,0
+303,36,Male,40750,Home,85,7,Home,Shoes,20373,Medium,10,10,4,72,0
+290,64,Female,86021,Home,25,6,Home,Smartphone,25557,Luxury,11,5,1,56,0
+151,50,Male,55004,Fashion,34,1,Fashion,Shoes,15361,Medium,13,116,6,66,0
+214,24,Male,74027,Fashion,55,5,Fashion,Laptop,53270,Luxury,5,350,6,96,0
+51,19,Male,98092,Home,41,6,Home,Smartphone,65262,Luxury,19,136,1,86,0
+193,29,Female,49891,Home,7,7,Home,Watch,21669,Medium,19,104,6,5,0
+233,30,Male,16397,Fashion,113,6,Fashion,Household Products,2503,Budget,17,51,5,19,0
+216,53,Female,16979,Fashion,82,9,Fashion,Groceries,2696,Budget,9,217,7,62,0
+347,64,Male,23689,Electronics,43,9,Electronics,T-Shirt,4857,Budget,17,251,9,93,0
+14,23,Female,79163,Electronics,88,7,Electronics,Gaming Console,31776,Luxury,7,190,1,1,1
+238,41,Male,75428,Sports,46,8,Sports,Laptop,53228,Luxury,14,313,5,58,0
+26,34,Female,54064,Groceries,52,3,Groceries,Headphones,21609,Medium,14,158,6,51,0
+361,19,Male,50387,Sports,69,3,Sports,Headphones,6271,Medium,10,309,6,51,0
+483,33,Male,15060,Home,72,5,Home,T-Shirt,3713,Budget,8,243,7,95,0
+466,64,Female,25972,Home,34,7,Home,Watch,8982,Medium,16,270,7,52,0
+301,30,Female,20350,Groceries,35,2,Groceries,Groceries,3280,Budget,7,215,8,55,0
+325,50,Female,37045,Sports,31,2,Sports,Shoes,16837,Medium,15,224,5,46,0
+114,41,Female,99399,Home,37,4,Home,Gaming Console,37112,Luxury,15,148,3,99,0
+76,34,Male,16229,Home,94,9,Home,Groceries,566,Budget,17,13,4,25,0
+428,61,Male,88388,Electronics,91,4,Electronics,Gaming Console,71922,Luxury,1,313,4,9,1
+465,34,Male,71692,Home,85,8,Home,Laptop,51460,Luxury,4,8,5,90,0
+429,51,Female,46639,Groceries,19,1,Groceries,Headphones,20198,Medium,13,72,1,42,0
+148,38,Female,36589,Groceries,68,2,Groceries,Watch,13920,Medium,14,95,6,32,0
+318,59,Male,61374,Sports,98,9,Sports,Smartphone,65992,Luxury,2,134,7,96,0
+412,61,Female,35338,Sports,24,2,Sports,Headphones,19119,Medium,6,216,4,15,1
+269,29,Female,14378,Groceries,12,3,Groceries,T-Shirt,2596,Budget,10,93,1,99,0
+94,54,Female,10126,Groceries,110,1,Groceries,Household Products,2292,Budget,9,51,8,41,0
+280,20,Male,89003,Fashion,48,9,Fashion,Smartphone,41390,Luxury,8,75,9,33,0
+360,47,Male,29233,Electronics,26,3,Electronics,Headphones,9195,Medium,6,207,9,97,0
+495,21,Male,48367,Sports,53,7,Sports,Headphones,24953,Medium,14,122,6,87,0
+399,33,Male,94748,Groceries,117,3,Groceries,Laptop,39334,Luxury,11,187,5,54,0
+398,50,Female,96908,Groceries,42,4,Groceries,Gaming Console,53302,Luxury,12,299,3,91,0
+232,32,Female,40254,Fashion,82,7,Fashion,Shoes,19082,Medium,9,90,5,61,0
+137,60,Male,46509,Sports,43,2,Sports,Shoes,14882,Medium,4,258,7,66,0
+359,43,Male,70710,Groceries,95,6,Groceries,Gaming Console,41193,Luxury,9,148,3,84,0
+160,29,Male,58364,Home,22,8,Home,Shoes,18910,Medium,15,225,3,26,1
+427,63,Female,54369,Groceries,17,5,Groceries,Headphones,24145,Medium,16,55,1,40,0
+56,58,Male,48413,Groceries,19,1,Groceries,Shoes,15975,Medium,3,144,7,57,0
+356,32,Male,85277,Fashion,91,3,Fashion,Laptop,63556,Luxury,18,319,9,57,0
+92,21,Female,13756,Groceries,6,3,Groceries,Groceries,3419,Budget,19,292,5,20,0
+487,56,Male,88389,Groceries,92,6,Groceries,Smartphone,45350,Luxury,16,99,4,46,0
+284,60,Female,87362,Fashion,54,6,Fashion,Smartphone,56778,Luxury,15,245,5,37,0
+43,27,Female,86797,Sports,38,3,Sports,Smartphone,48548,Luxury,9,196,5,75,0
+141,24,Male,54064,Fashion,10,3,Fashion,Shoes,18025,Medium,11,58,7,26,0
+417,48,Female,40134,Electronics,110,5,Electronics,Shoes,18223,Medium,2,265,6,13,0
+460,64,Male,11609,Electronics,82,9,Electronics,Groceries,3926,Budget,14,314,7,41,0
+388,57,Male,37197,Electronics,8,4,Electronics,Watch,19683,Medium,11,122,2,62,0
+389,48,Female,27889,Electronics,65,8,Electronics,Shoes,6892,Medium,15,48,9,36,0
+407,60,Male,96795,Sports,44,6,Sports,Smartphone,76009,Luxury,6,131,8,90,0
+279,38,Female,27514,Home,22,4,Home,Shoes,6823,Medium,3,73,5,30,0
+154,64,Male,36630,Groceries,79,4,Groceries,Headphones,9109,Medium,16,314,6,26,0
+188,63,Male,48467,Sports,94,6,Sports,Watch,12843,Medium,10,288,7,36,0
+473,27,Female,48751,Sports,20,7,Sports,Headphones,18721,Medium,11,88,1,11,0
+306,43,Female,78703,Electronics,90,6,Electronics,Laptop,40275,Luxury,17,343,8,50,0
+444,19,Male,24011,Fashion,55,7,Fashion,T-Shirt,2219,Budget,13,220,9,95,0
+110,58,Female,36657,Sports,21,5,Sports,Headphones,12992,Medium,6,76,7,86,0
+208,35,Male,63420,Sports,36,4,Sports,Laptop,35749,Luxury,17,188,5,52,0
+403,22,Male,32164,Home,16,2,Home,Shoes,19232,Medium,4,246,1,42,0
+1,56,Female,10860,Groceries,19,8,Groceries,Household Products,3944,Budget,7,122,3,87,0
+113,46,Male,63002,Fashion,44,4,Fashion,Gaming Console,48150,Luxury,17,187,7,99,0
+497,34,Male,88543,Groceries,114,4,Groceries,Laptop,52241,Luxury,13,79,8,89,0
+226,51,Male,99464,Home,24,3,Home,Gaming Console,34596,Luxury,6,312,3,58,0
+102,20,Female,85629,Electronics,38,1,Electronics,Gaming Console,72063,Luxury,18,349,8,65,0
+337,62,Female,90070,Sports,51,7,Sports,Laptop,27179,Luxury,7,154,8,5,0
+15,30,Male,19474,Groceries,107,6,Groceries,Groceries,1163,Budget,8,137,5,97,0
+327,50,Male,82010,Home,81,2,Home,Gaming Console,50851,Luxury,11,351,6,41,0
+345,27,Female,37128,Sports,21,4,Sports,Shoes,7800,Medium,16,111,9,21,0
+489,26,Male,26626,Home,23,6,Home,Headphones,15164,Medium,13,171,9,86,0
+316,53,Female,41881,Home,39,9,Home,Shoes,17828,Medium,3,111,6,17,0
+9,25,Female,58190,Groceries,15,3,Groceries,Watch,8561,Medium,17,163,3,33,0
+195,51,Male,26163,Fashion,101,7,Fashion,Headphones,20096,Medium,18,237,2,85,0
+333,49,Male,63574,Fashion,117,3,Fashion,Laptop,78521,Luxury,3,99,1,91,0
+484,24,Female,91422,Sports,48,1,Sports,Gaming Console,41755,Luxury,9,310,2,5,1
+343,47,Female,23156,Sports,29,3,Sports,Groceries,3208,Budget,14,185,6,39,0
+136,59,Female,96206,Fashion,31,6,Fashion,Laptop,27719,Luxury,7,133,9,31,0
+45,41,Male,17357,Groceries,100,5,Groceries,T-Shirt,4452,Budget,12,183,7,89,0
+386,25,Female,61717,Electronics,80,9,Electronics,Smartphone,61945,Luxury,8,292,4,57,0
+401,20,Female,96724,Fashion,89,3,Fashion,Laptop,58340,Luxury,4,61,3,43,0
+175,18,Female,61924,Home,19,1,Home,Smartphone,63360,Luxury,12,199,5,19,0
+340,41,Female,87801,Sports,8,3,Sports,Smartphone,62726,Luxury,2,181,8,23,0
+122,20,Male,12983,Sports,94,7,Sports,Groceries,1420,Budget,12,39,8,4,0
+500,51,Female,27027,Fashion,47,6,Fashion,Watch,9386,Medium,4,1,7,94,0
+67,44,Male,71886,Electronics,102,4,Electronics,Smartphone,62660,Luxury,6,335,7,51,0
+147,37,Female,18712,Sports,42,9,Sports,T-Shirt,4667,Budget,2,344,8,11,0
+349,43,Male,95091,Fashion,36,4,Fashion,Smartphone,75445,Luxury,18,339,4,35,0
+77,58,Male,36734,Electronics,104,6,Electronics,Headphones,20913,Medium,2,111,8,40,0
+294,34,Male,25072,Groceries,100,8,Groceries,Watch,18324,Medium,19,63,6,67,0
+111,48,Female,39402,Fashion,44,2,Fashion,Watch,16664,Medium,12,237,9,53,0
+6,21,Female,76557,Fashion,10,6,Fashion,Laptop,30675,Luxury,10,260,6,93,0
+35,21,Female,76412,Home,100,4,Home,Smartphone,62233,Luxury,15,355,7,40,0
+420,56,Female,42954,Groceries,93,8,Groceries,Watch,19523,Medium,13,337,1,6,1
+348,37,Female,45060,Electronics,7,1,Electronics,Watch,12106,Medium,17,76,7,64,0
+266,29,Female,81853,Sports,51,9,Sports,Gaming Console,67533,Luxury,19,26,4,93,0
+339,63,Male,30954,Sports,72,3,Sports,Shoes,19300,Medium,5,195,8,27,0
+493,57,Female,11466,Home,56,6,Home,T-Shirt,2393,Budget,15,263,7,61,0
+415,41,Male,25735,Home,91,6,Home,Shoes,15335,Medium,2,31,7,11,0
+295,64,Female,60876,Groceries,35,7,Groceries,Gaming Console,77789,Luxury,16,114,6,93,0
+384,18,Male,43272,Sports,90,9,Sports,Headphones,22042,Medium,19,364,3,71,0
+330,53,Male,73069,Fashion,69,7,Fashion,Laptop,66045,Luxury,17,187,4,88,0
+53,20,Male,14748,Electronics,118,4,Electronics,Household Products,2496,Budget,8,317,9,39,0
+42,29,Male,48304,Electronics,44,2,Electronics,Shoes,21281,Medium,19,242,3,87,0
+197,54,Female,71929,Groceries,16,1,Groceries,Laptop,70033,Luxury,10,166,2,45,0
+215,49,Female,33888,Fashion,99,8,Fashion,Headphones,16824,Medium,8,329,2,79,0
+150,63,Female,84319,Fashion,58,6,Fashion,Smartphone,74153,Luxury,1,202,8,32,0
+265,26,Male,56403,Sports,39,1,Sports,Headphones,6447,Medium,2,216,1,8,1
+119,43,Male,37935,Fashion,14,7,Fashion,Headphones,17045,Medium,17,282,5,86,0
+179,60,Male,79967,Groceries,51,5,Groceries,Gaming Console,70379,Luxury,15,281,4,75,0
+220,35,Male,38044,Home,25,8,Home,Headphones,15773,Medium,14,360,7,23,0
+224,18,Female,72946,Groceries,100,2,Groceries,Gaming Console,36329,Luxury,11,10,5,46,0
+167,18,Male,11058,Home,74,5,Home,Groceries,775,Budget,5,161,1,51,0
+351,23,Female,77391,Home,66,3,Home,Gaming Console,51113,Luxury,19,204,9,20,0
+144,64,Female,38602,Fashion,88,6,Fashion,Watch,20522,Medium,19,257,6,15,0
+481,41,Male,29053,Home,82,5,Home,Shoes,11135,Medium,18,216,2,58,0
+55,64,Male,30559,Electronics,89,5,Electronics,Shoes,11190,Medium,4,227,3,20,1
+85,22,Female,22219,Groceries,112,2,Groceries,Household Products,3060,Budget,14,137,2,76,0
+185,42,Female,91571,Home,78,1,Home,Laptop,54344,Luxury,18,69,1,99,0
+25,19,Female,71135,Sports,65,9,Sports,Gaming Console,58986,Luxury,4,161,4,33,0
+134,22,Male,55648,Groceries,118,8,Groceries,Shoes,11183,Medium,13,224,3,58,0
+453,41,Male,55226,Home,35,9,Home,Headphones,9198,Medium,7,45,2,8,0
+411,47,Female,65571,Fashion,107,5,Fashion,Laptop,42478,Luxury,12,273,3,11,1
+22,47,Female,40306,Home,11,9,Home,Watch,24492,Medium,17,2,1,48,0
+93,55,Female,22999,Groceries,27,8,Groceries,T-Shirt,3435,Budget,18,111,8,60,0
+98,41,Male,47148,Home,67,6,Home,Watch,22072,Medium,18,49,7,81,0
+369,23,Male,18024,Fashion,43,1,Fashion,Household Products,3317,Budget,1,182,5,9,0
+196,26,Male,65114,Groceries,71,4,Groceries,Gaming Console,29437,Luxury,4,311,6,35,0
+406,29,Female,19941,Fashion,118,1,Fashion,T-Shirt,874,Budget,14,142,2,20,0
+379,53,Female,56313,Home,32,7,Home,Headphones,10628,Medium,15,246,3,15,1
+68,21,Female,65479,Fashion,21,1,Fashion,Smartphone,64037,Luxury,5,34,6,53,0
+11,57,Female,34538,Sports,39,1,Sports,Shoes,5502,Medium,3,101,3,1,0
+378,38,Female,51605,Fashion,112,2,Fashion,Shoes,19318,Medium,1,209,3,78,0
+438,51,Male,28782,Electronics,54,4,Electronics,Shoes,9765,Medium,12,132,7,48,0
+364,52,Female,17674,Groceries,89,9,Groceries,T-Shirt,3462,Budget,15,271,4,93,0
+186,38,Male,51621,Sports,52,5,Sports,Watch,12421,Medium,15,160,9,78,0
+236,45,Female,27015,Electronics,14,6,Electronics,Watch,10347,Medium,10,217,6,44,0
+210,58,Female,42784,Fashion,13,9,Fashion,Shoes,23663,Medium,1,130,1,10,0
+171,35,Male,34089,Home,12,8,Home,Watch,8072,Medium,17,76,8,89,0
+135,44,Male,96231,Groceries,23,8,Groceries,Smartphone,57088,Luxury,1,59,9,13,0
+259,44,Female,25223,Groceries,50,6,Groceries,Headphones,10661,Medium,14,100,5,72,0
+274,42,Male,89190,Fashion,34,7,Fashion,Laptop,63211,Luxury,17,175,4,82,0
+172,36,Male,57055,Home,18,5,Home,Shoes,10105,Medium,16,69,9,90,0
+373,27,Female,28452,Groceries,118,7,Groceries,Watch,5195,Medium,3,109,4,83,0
+180,38,Male,47650,Fashion,38,4,Fashion,Shoes,14873,Medium,16,52,3,8,0
+258,63,Female,58781,Groceries,104,1,Groceries,Headphones,7454,Medium,7,355,2,97,0
+271,59,Male,75333,Sports,109,9,Sports,Gaming Console,69602,Luxury,5,305,9,17,0
+117,51,Female,61474,Electronics,105,1,Electronics,Gaming Console,45491,Luxury,17,330,9,55,0
+190,44,Female,24484,Sports,12,6,Sports,Groceries,841,Budget,8,50,3,44,0
+235,53,Female,23493,Home,50,9,Home,Household Products,662,Budget,4,213,8,30,0
+161,59,Female,76061,Home,82,2,Home,Smartphone,59414,Luxury,5,325,6,41,0
+29,48,Male,76235,Electronics,101,4,Electronics,Laptop,48093,Luxury,1,256,3,18,1
+247,41,Female,43243,Electronics,45,4,Electronics,Headphones,13078,Medium,5,85,8,55,0
+332,25,Female,15722,Groceries,26,5,Groceries,Groceries,2676,Budget,3,364,4,9,1
+405,42,Male,39877,Electronics,78,6,Electronics,Headphones,21999,Medium,19,321,7,4,0
+246,52,Female,74166,Home,56,7,Home,Laptop,74159,Luxury,18,197,3,11,1
+393,19,Female,86509,Fashion,80,1,Fashion,Laptop,56455,Luxury,2,178,3,90,0
+423,25,Female,35805,Sports,36,3,Sports,Headphones,17100,Medium,10,256,1,59,0
+155,28,Female,90885,Home,16,7,Home,Smartphone,43311,Luxury,12,25,3,19,0
+350,51,Male,55814,Sports,8,8,Sports,Headphones,16599,Medium,19,168,3,65,0
+118,33,Female,10338,Electronics,12,5,Electronics,Groceries,4226,Budget,17,215,5,80,0
+12,31,Male,10206,Home,19,3,Home,Groceries,2178,Budget,7,241,4,96,0
+229,21,Female,21005,Groceries,28,2,Groceries,Groceries,1163,Budget,18,159,3,49,0
+33,51,Female,20966,Fashion,67,6,Fashion,Groceries,2215,Budget,19,153,6,58,0
+426,30,Male,81128,Sports,65,7,Sports,Laptop,59524,Luxury,2,246,2,17,1
+249,44,Female,11898,Sports,44,6,Sports,Household Products,1112,Budget,1,220,1,8,1
+469,36,Male,74140,Home,47,6,Home,Smartphone,56730,Luxury,4,22,4,52,0
+357,27,Male,20561,Electronics,10,5,Electronics,Household Products,3775,Budget,9,82,4,41,0
+254,61,Female,28888,Fashion,89,8,Fashion,Shoes,23099,Medium,2,131,5,28,0
+95,63,Male,46244,Groceries,94,4,Groceries,Headphones,7708,Medium,1,319,6,55,0
+402,60,Male,94178,Home,91,8,Home,Smartphone,28262,Luxury,11,110,2,55,0
+101,19,Female,48000,Sports,118,6,Sports,Headphones,13038,Medium,19,319,4,1,1
+19,34,Male,47157,Electronics,28,5,Electronics,Watch,14339,Medium,2,198,6,11,0
+86,57,Female,53925,Home,64,8,Home,Shoes,20524,Medium,11,361,5,14,0
+152,32,Female,75641,Electronics,48,1,Electronics,Laptop,77296,Luxury,8,317,3,6,1
+200,53,Male,15901,Sports,69,6,Sports,Groceries,1463,Budget,14,25,5,98,0
+44,53,Female,48756,Fashion,77,8,Fashion,Watch,7143,Medium,3,177,3,36,0
+70,57,Female,51240,Sports,71,3,Sports,Watch,17891,Medium,18,61,3,19,0
+390,62,Female,68847,Home,62,4,Home,Smartphone,60386,Luxury,17,355,5,83,0
+237,60,Female,50785,Fashion,111,9,Fashion,Headphones,6171,Medium,4,178,1,91,0
+459,40,Female,60258,Electronics,51,5,Electronics,Laptop,56980,Luxury,15,256,7,30,0
+87,22,Male,33930,Groceries,82,4,Groceries,Watch,11565,Medium,13,42,9,18,0
+346,18,Male,52712,Groceries,55,4,Groceries,Shoes,24456,Medium,17,88,2,15,0
+442,57,Male,67535,Electronics,71,8,Electronics,Gaming Console,29298,Luxury,18,138,9,52,0
+383,34,Male,75048,Home,7,5,Home,Smartphone,76831,Luxury,11,282,9,54,0
+257,23,Male,48547,Sports,5,8,Sports,Headphones,14528,Medium,3,4,9,47,0
+499,27,Female,93384,Home,11,2,Home,Smartphone,58979,Luxury,6,308,1,1,1
+455,62,Male,67796,Fashion,98,6,Fashion,Laptop,53430,Luxury,14,108,4,93,0
+255,51,Male,81986,Sports,51,2,Sports,Gaming Console,36101,Luxury,11,279,6,17,0
+181,19,Male,53596,Electronics,8,9,Electronics,Shoes,13636,Medium,11,263,7,13,0
+90,50,Male,74484,Fashion,31,7,Fashion,Laptop,62380,Luxury,1,254,4,86,0
+18,54,Female,17392,Home,5,3,Home,Household Products,702,Budget,2,53,6,32,0
+496,45,Male,67656,Groceries,30,9,Groceries,Laptop,45827,Luxury,19,353,4,14,1
+222,60,Male,77260,Sports,101,8,Sports,Laptop,30926,Luxury,3,191,6,19,0
+268,39,Female,10193,Electronics,92,2,Electronics,Groceries,2436,Budget,9,257,8,87,0
+108,34,Female,88344,Groceries,44,2,Groceries,Laptop,76203,Luxury,13,281,7,73,0
+66,19,Male,63682,Fashion,107,6,Fashion,Laptop,50934,Luxury,2,294,2,98,0
+203,48,Female,35032,Home,91,3,Home,Shoes,14074,Medium,9,99,5,73,0
+278,60,Male,58438,Electronics,49,5,Electronics,Shoes,6819,Medium,17,127,9,23,0
+158,47,Male,69321,Fashion,65,8,Fashion,Smartphone,40282,Luxury,5,4,4,60,0
+30,20,Female,61885,Groceries,28,2,Groceries,Laptop,59177,Luxury,15,342,7,66,0
+132,58,Female,33874,Electronics,96,9,Electronics,Watch,22338,Medium,3,226,9,79,0
+475,19,Female,58899,Groceries,112,3,Groceries,Watch,12362,Medium,11,296,2,43,0
+432,34,Female,21410,Groceries,60,6,Groceries,Groceries,3789,Budget,2,38,7,37,0
+430,34,Male,85476,Sports,89,8,Sports,Gaming Console,29917,Luxury,6,342,2,37,0
+304,45,Female,18244,Fashion,28,6,Fashion,Household Products,4545,Budget,4,205,7,8,0
+39,47,Female,88781,Sports,73,5,Sports,Gaming Console,63649,Luxury,7,100,1,94,0
+17,56,Female,99474,Fashion,117,5,Fashion,Laptop,25854,Luxury,17,81,1,2,0
+421,43,Female,11630,Groceries,58,4,Groceries,Groceries,3762,Budget,7,72,9,77,0
+260,31,Male,18787,Electronics,117,9,Electronics,Household Products,3446,Budget,8,344,6,87,0
+31,43,Male,37751,Fashion,37,9,Fashion,Headphones,21921,Medium,11,246,7,93,0
+187,42,Female,27727,Electronics,39,7,Electronics,Watch,16543,Medium,18,323,6,39,0
+251,33,Male,35150,Fashion,113,7,Fashion,Headphones,13438,Medium,13,162,4,28,1
+47,45,Female,61934,Groceries,56,3,Groceries,Smartphone,56667,Luxury,15,144,5,69,0
+355,58,Male,96741,Sports,73,2,Sports,Laptop,76590,Luxury,15,167,4,33,0
+16,32,Male,71087,Electronics,100,8,Electronics,Laptop,42675,Luxury,9,180,1,62,0
+413,25,Female,47099,Home,60,7,Home,Shoes,9134,Medium,8,110,8,93,0
+156,46,Male,12356,Groceries,59,3,Groceries,Groceries,811,Budget,12,82,6,18,0
+146,20,Male,92879,Electronics,48,5,Electronics,Laptop,38547,Luxury,3,46,9,94,0
+377,40,Male,33199,Electronics,50,4,Electronics,Headphones,8687,Medium,15,112,7,45,0
+334,62,Female,14956,Fashion,88,5,Fashion,Groceries,4199,Budget,18,324,1,1,1
+32,52,Female,39592,Home,28,7,Home,Headphones,18403,Medium,4,173,4,65,0
+283,21,Male,93820,Groceries,54,5,Groceries,Laptop,72093,Luxury,3,75,4,26,0
+299,48,Female,76634,Sports,103,8,Sports,Gaming Console,63010,Luxury,3,188,2,45,0
+123,30,Female,89273,Groceries,112,2,Groceries,Gaming Console,34996,Luxury,3,170,2,30,0
+244,49,Male,28708,Home,24,4,Home,Shoes,21282,Medium,14,214,8,85,0
+434,52,Female,99959,Home,60,1,Home,Laptop,73003,Luxury,10,210,8,97,0
+292,40,Male,61098,Sports,79,9,Sports,Laptop,28802,Luxury,19,242,1,51,0
+467,53,Male,22205,Sports,56,3,Sports,Household Products,784,Budget,13,106,5,64,0
+408,54,Male,29173,Home,70,4,Home,Watch,17583,Medium,11,364,8,43,0
+253,22,Male,25036,Home,96,9,Home,Watch,24374,Medium,6,134,3,60,0
+8,64,Male,96807,Electronics,30,9,Electronics,Smartphone,27027,Luxury,13,41,1,89,0

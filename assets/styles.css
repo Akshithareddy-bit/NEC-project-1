@@ -1,0 +1,21 @@
+.main {
+    background-color: #f5f7fa;
+}
+
+div[data-testid="metric-container"] {
+    background: white;
+    border-radius: 12px;
+    padding: 15px;
+    box-shadow: 0px 3px 10px rgba(0,0,0,0.1);
+}
+
+h1,h2,h3 {
+    color: #1f2937;
+}
+
+.stButton>button {
+    width: 100%;
+    border-radius: 10px;
+    height: 45px;
+    font-weight: bold;
+}
