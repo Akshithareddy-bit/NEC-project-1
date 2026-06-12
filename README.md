@@ -149,7 +149,7 @@ Modify configuration in respective page files:
 ![Output 1](nec-project-1.1.png)
 
 ### Screenshot 2
-![Output 2](nec-project-1.2.png)
+![Output 2](nec-project-1.2 .png)
 
 ## Links
 
