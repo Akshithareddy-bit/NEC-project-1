@@ -143,13 +143,11 @@ Modify configuration in respective page files:
 - [ ] Database integration
 - [ ] API endpoints for external integrations
 
-## Output Screenshots
+## Output Screenshot
 
 ### Screenshot 1
 ![Output 1](nec-project-1.1.png)
 
-### Screenshot 2
-![Output 2](nec-project-1.2 .png)
 
 ## Links
 
