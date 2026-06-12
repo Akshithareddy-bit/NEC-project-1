@@ -143,6 +143,10 @@ Modify configuration in respective page files:
 - [ ] Database integration
 - [ ] API endpoints for external integrations
 
+## Links
+
+🚀 Live Demo: https://nec-project-1-m4lx.onrender.com
+
 ## License
 
 This project is provided as-is for educational and business purposes.
